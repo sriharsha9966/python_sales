@@ -29,10 +29,10 @@ This repository contains code for a sales data analysis dashboard built using Py
 - `README.md`: Documentation detailing project overview, features, requirements, and usage instructions.
 
 ## Examples
-![Distribution of Customer Ages](images/display1.png)
+![Distribution of Customer Ages](display1.png)
 *Figure 1: Distribution of Customer Ages*
 
-![Variation of Customer Age by Gender](images/display2.png)
+![Variation of Customer Age by Gender](display2.png)
 *Figure 2: Variation of Customer Age by Gender*
 
 [//]: # (Add more examples here)
