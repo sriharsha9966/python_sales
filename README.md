@@ -1,6 +1,4 @@
-Certainly! Here's a template for the content that you can include in your GitHub README file:
 
----
 
 # Sales Data Analysis Dashboard
 
