@@ -24,7 +24,7 @@ This repository contains code for a sales data analysis dashboard built using Py
 5. Explore the generated visualizations to gain insights from your sales data.
 
 ## Directory Structure
-- `project.py`: Python script for data analysis and visualization.
+- `project.ipynb`: Python script for data analysis and visualization.
 - `sales_data.csv`: Placeholder for your sales data CSV file.
 - `README.md`: Documentation detailing project overview, features, requirements, and usage instructions.
 
@@ -35,14 +35,3 @@ This repository contains code for a sales data analysis dashboard built using Py
 ![Variation of Customer Age by Gender](display2.png)
 *Figure 2: Variation of Customer Age by Gender*
 
-[//]: # (Add more examples here)
-
-## Contributing
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-You can replace placeholders like `your_data.csv` with the actual file names and paths in your repository. Additionally, you can add more examples and update the directory structure section as per your project setup.
