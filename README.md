@@ -35,3 +35,6 @@ This repository contains code for a sales data analysis dashboard built using Py
 ![Variation of Customer Age by Gender](display2.png)
 *Figure 2: Variation of Customer Age by Gender*
 
+## To view the dashboard
+https://nbviewer.org/github/sriharsha9966/python_sales/blob/main/project.ipynb
+
